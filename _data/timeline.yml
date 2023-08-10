@@ -1,0 +1,64 @@
+# > title: Name of your timeline entry, university or work place
+# > title-url: Link to your timeline entry, university or work place
+# > date: Time span
+# > subtitle: The description under the title
+# > tags: List of tags you want to associate with the entry
+# > timeline-side: The side on which you want to display the entry: left or right
+
+# Example of a timeline entry
+# - title: airbnb
+#   title-url: https://example.com/
+#   date: Sep 2019 - Present
+#   subtitle: Fullstack Developer
+#   tags:
+#     - tag: React
+#     - tag: Javascript
+#     - tag: Ruby
+#     - tag: Rails
+#   timeline-side: right
+
+- title: Red_Rebels
+  title-url: https://red-rebels.com/
+  date: Sep 2022 - Present
+  subtitle: CTF Player
+  tags:
+    - tag: CTF
+    - tag: Forensics
+    - tag: Network
+    - tag: Cyber Security
+  timeline-side: left
+
+- title: AdwareIT
+  title-url: https://adwareit.com/
+  date: Sep 2022 - Present
+  subtitle: Instructor & Cyber Secuirty Specialist
+  tags:
+    - tag: Mentor
+    - tag: Ethical Hacking
+    - tag: Cyber Security
+  timeline-side: right
+
+- title: Cyber Bangla
+  title-url: https://cyberbangla.org/
+  date: Mar 2020 - Sep 2022
+  subtitle: Instructor & Cyber Secuirty Specialist
+  tags:
+    - tag: Mentor
+    - tag: Ethical Hacking
+    - tag: Cyber Security
+  timeline-side: right
+
+- title: Chattogram Medical College
+  title-url: https://cmc.gov.bd/
+  subtitle: Bachelor of Medicine, Bachelor of Surgery (MBBS)
+  timeline-side: left
+
+- title: Dhaka Residential Model College
+  title-url: http://www.drmc.edu.bd/
+  subtitle: Higher Secondary School Certificate
+  timeline-side: right
+
+- title: Ispahani Public School & College
+  title-url: https://www.ipsc.edu.bd/
+  subtitle: Secondary School Certificate
+  timeline-side: left

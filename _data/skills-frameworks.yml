@@ -1,0 +1,18 @@
+# > name: Name of your framework
+# > weight: Describes how good you know the framework - values from 1 up to 5
+#
+# Example of a framework
+# - name: Framework
+#   weight: 5
+
+- name: SPSS
+  weight: 5
+
+- name: Mendeley
+  weight: 3
+
+- name: Stata
+  weight: 4
+
+- name: EndNote
+  weight: 1

@@ -1,0 +1,36 @@
+# > name: Name of your Dev Tool
+# > weight: Describes how good you know the tool - values from 1 up to 5
+#
+# Example of a Dev Tool
+# - name: Git
+#   weight: 5
+
+- name: BurpSuite
+  weight: 5
+
+- name: Maltego
+  weight: 3
+
+- name: Wireshark
+  weight: 3
+
+- name: Nmap
+  weight: 1
+
+- name: Sqlmap
+  weight: 1
+
+- name: Nessus
+  weight: 2
+
+- name: BeEF
+  weight: 2
+
+- name: ZAP
+  weight: 4
+
+- name: VS Code
+  weight: 3
+
+- name: ffuf
+  weight: 4
