@@ -16,7 +16,7 @@
 - name: Chmapion, NSDA-2021
   descr: "Bangabandhu National Skills Competition 2021, organized by National Skills Development Authority, Bangladesh"
 #  Link: https://www.linkedin.com/posts/sifat-muttakim_cybersecurity-ctf-winner-activity-6882992498155888640-abzI/
-  Link: https://www.facebook.com/NSDABD/posts/pfbid0eFbTpkQJ8muiTtnV8oKY4DSZqxnt6ABTnMNuR5M7DE3xvJM6xCYL33YTCN8EjdfFl
+  demo: https://www.facebook.com/NSDABD/posts/pfbid0eFbTpkQJ8muiTtnV8oKY4DSZqxnt6ABTnMNuR5M7DE3xvJM6xCYL33YTCN8EjdfFl
   tags:
     - tag: Chmapion
     - tag: Cyber Security
@@ -25,7 +25,7 @@
 
 - name: Chmapion, LeetCon-2023
   descr: "MIST LeetCon:HackMeIfYouCan, CTF competition"
-  Link: https://www.facebook.com/leetconf/posts/pfbid0XqqsKdeN85KTRRefKXqFEv59NVfBBrd4nnLhsN5rANTfJ9HBdx2GWjmCQS92bcNJl
+  demo: https://www.facebook.com/leetconf/posts/pfbid0XqqsKdeN85KTRRefKXqFEv59NVfBBrd4nnLhsN5rANTfJ9HBdx2GWjmCQS92bcNJl
   tags:
     - tag: Red_Rebels
     - tag: CTF
@@ -37,13 +37,13 @@
 
 - name: Best Project, Digital Forensic
   descr: "IEEE CTF Bootcamp-2021"
-  Link: https://example.com/
+  demo: https://example.com/
   tags:
     - tag: forensic
 
 - name: HacktheBox ProLab Dante
   descr: "Dive into Hack The Box ProLab - Dante for an immersive cybersecurity experience. Uncover vulnerabilities, enhance skills, and gain confidence in tackling real-world threats"
-  Link: https://media.licdn.com/dms/image/C5622AQGjMUAJyW_CvQ/feedshare-shrink_2048_1536/0/1673529985780?e=1694649600&v=beta&t=bnN6wg8h1Wz-v18xjRU0DDTdFbLMso5Laa6vfkLvhCw
+  demo: https://media.licdn.com/dms/image/C5622AQGjMUAJyW_CvQ/feedshare-shrink_2048_1536/0/1673529985780?e=1694649600&v=beta&t=bnN6wg8h1Wz-v18xjRU0DDTdFbLMso5Laa6vfkLvhCw
   tags:
     - tag: hackthebox
     - tag: pentesting
