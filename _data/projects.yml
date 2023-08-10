@@ -14,10 +14,10 @@
 #     - tag: Node
 
 - name: Chmapion, NSDA-2021
-  descr: "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam"
+  descr: "https://www.facebook.com/NSDABD/posts/pfbid0eFbTpkQJ8muiTtnV8oKY4DSZqxnt6ABTnMNuR5M7DE3xvJM6xCYL33YTCN8EjdfFl/"
   demo: https://example.com/
   tags:
-    - tag: MongoDB
-    - tag: Express
-    - tag: AngularJS
-    - tag: Node
+    - tag: Chmapion
+    - tag: Cyber Security
+    - tag: CTF
+    - tag: Duo
