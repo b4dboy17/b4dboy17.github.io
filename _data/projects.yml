@@ -13,23 +13,11 @@
 #     - tag: AngularJS
 #     - tag: Node
 
-- name: Chmapion
-  descr: "Bangabandhu National Skills Competition 2021, organized by National Skills Development Authority, Bangladesh"
-  demo: https://www.facebook.com/NSDABD/posts/pfbid0eFbTpkQJ8muiTtnV8oKY4DSZqxnt6ABTnMNuR5M7DE3xvJM6xCYL33YTCN8EjdfFl/
+- name: Chmapion, NSDA-2021
+  descr: "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam"
+  demo: https://example.com/
   tags:
-    - tag: Chmapion
-    - tag: Cyber Security
-    - tag: CTF
-    - tag: Duo
-
-- name: Chmapion
-  descr: "MIST LeetCon:HackMeIfYouCan, CTF competition"
-  demo: https://www.facebook.com/leetconf/posts/pfbid0XqqsKdeN85KTRRefKXqFEv59NVfBBrd4nnLhsN5rANTfJ9HBdx2GWjmCQS92bcNJl/
-  tags:
-    - tag: Red_Rebels
-    - tag: CTF
-
-- name: Champion
-    tags:
-    - tag: Solo
-    - tag: CTF
+    - tag: MongoDB
+    - tag: Express
+    - tag: AngularJS
+    - tag: Node
