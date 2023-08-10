@@ -13,36 +13,21 @@
 #     - tag: AngularJS
 #     - tag: Node
 
-- name: Chmapion, NSDA-2021
-  descr: "Bangabandhu National Skills Competition 2021, organized by National Skills Development Authority, Bangladesh"
-  demo: https://www.facebook.com/NSDABD/posts/pfbid0eFbTpkQJ8muiTtnV8oKY4DSZqxnt6ABTnMNuR5M7DE3xvJM6xCYL33YTCN8EjdfFl/
-  tags:
-    - tag: Chmapion
-    - tag: Cyber Security
-    - tag: CTF
-    - tag: Duo
-
-- name: Chmapion, LeetCon-2023
-  descr: "MIST LeetCon:HackMeIfYouCan, CTF competition"
-  demo: https://www.facebook.com/leetconf/posts/pfbid0XqqsKdeN85KTRRefKXqFEv59NVfBBrd4nnLhsN5rANTfJ9HBdx2GWjmCQS92bcNJl/
-  tags:
-    - tag: Red_Rebels
-    - tag: CTF
-
-- name: Champion, IEEE CTF Bootcamp-2021
-    tags:
-    - tag: Solo
-    - tag: CTF
-
-- name: Best Project, Digital Forensic
-  descr: "IEEE CTF Bootcamp-2021"
+- name: project X
+  descr: "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam"
   demo: https://example.com/
   tags:
-    - tag: forensic
+    - tag: MongoDB
+    - tag: Express
+    - tag: AngularJS
+    - tag: Node
 
-- name: HacktheBox ProLab Dante
-  descr: "Dive into Hack The Box ProLab - Dante for an immersive cybersecurity experience. Uncover vulnerabilities, enhance skills, and gain confidence in tackling real-world threats"
-  demo: https://media.licdn.com/dms/image/C5622AQGjMUAJyW_CvQ/feedshare-shrink_2048_1536/0/1673529985780?e=1694649600&v=beta&t=bnN6wg8h1Wz-v18xjRU0DDTdFbLMso5Laa6vfkLvhCw/
+- name: project Y
+  descr: "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam"
+  demo: https://example.com/
   tags:
-    - tag: hackthebox
-    - tag: pentesting
+    - tag: Python
+    - tag: Django
+
+- name: project Z
+  descr: "You can also set a project without demo link and no tags"
