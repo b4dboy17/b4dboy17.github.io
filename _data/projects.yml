@@ -29,3 +29,20 @@
     - tag: Red_Rebels
     - tag: CTF
 
+- name: Champion, IEEE CTF Bootcamp-2021
+  tags:
+    - tag: CTF
+    - tag: Solo
+
+- name: Best Project, Digital Forensic
+  descr: "IEEE CTF Bootcamp-2021"
+  demo: https://www.linkedin.com/posts/sifat-muttakim_ieee-champion-cybersecurity-activity-6941753254116503552-piJG
+  tags:
+    - tag: Forensic
+
+- name: HacktheBox ProLab Dante
+  descr: "Dive into Hack The Box ProLab - Dante for an immersive cybersecurity experience. Uncover vulnerabilities, enhance skills, and gain confidence in tackling real-world threats"
+  demo: https://media.licdn.com/dms/image/C5622AQGjMUAJyW_CvQ/feedshare-shrink_2048_1536/0/1673529985780?e=1694649600&v=beta&t=bnN6wg8h1Wz-v18xjRU0DDTdFbLMso5Laa6vfkLvhCw/
+  tags:
+    - tag: hackthebox
+    - tag: pentesting
