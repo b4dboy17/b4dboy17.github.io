@@ -1,36 +1,68 @@
 # > name: Name of your Dev Tool
 # > weight: Describes how good you know the tool - values from 1 up to 5
-#
-# Example of a Dev Tool
-# - name: Git
-#   weight: 5
 
 - name: BurpSuite
   weight: 5
 
-- name: Maltego
+- name: Metasploit
+  weight: 5
+
+- name: BloodHound
+  weight: 5
+
+- name: Impacket
+  weight: 4
+
+- name: Cobalt Strike
+  weight: 4
+
+- name: Sliver C2
+  weight: 4
+
+- name: Adaptix C2
   weight: 3
 
 - name: Wireshark
-  weight: 3
+  weight: 4
 
 - name: Nmap
-  weight: 1
-
-- name: Sqlmap
-  weight: 1
+  weight: 5
 
 - name: Nessus
-  weight: 2
+  weight: 3
+
+- name: Havoc C2
+  weight: 3
+
+- name: CrackMapExec / NetExec
+  weight: 4
+
+- name: ffuf
+  weight: 4
 
 - name: BeEF
-  weight: 2
+  weight: 3
+
+- name: Maltego
+  weight: 3
 
 - name: ZAP
   weight: 4
 
-- name: VS Code
+- name: Volatility
+  weight: 4
+
+- name: Autopsy
+  weight: 4
+
+- name: Splunk
   weight: 3
 
-- name: ffuf
+- name: Wazuh
+  weight: 3
+
+- name: Sqlmap
+  weight: 4
+
+- name: VS Code
   weight: 4
