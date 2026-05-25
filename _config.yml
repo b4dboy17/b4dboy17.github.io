@@ -2,16 +2,16 @@
 
 # GENERAL SITE SETTINGS
 # title: This will be displayed as the website's name in your browser tab.
-title: badboy_17
+title: Dr. Sifat
 # description: This will be meta HTML tag content. This can be ignored.
-description: A cool website to get info about badboy_17
+description: Dr. Muttakim Chowdhury Sifat — MBBS | Red Teamer | Cybersecurity Researcher
 # baseurl: The subpath of your site
 # > set this to "", if you renamed the repository to <user>.github.io
-baseurl: "https://b4dboy17.github.io"
+baseurl: ""
 
 # LANDING PAGE
 # username: This will displayed on the landing page as your name.
-username: Sifat
+username: Muttakim
 # typing_text: This will be typed before 'scroll down for more'.
 # > set this to your job title, e.g. Fullstack Developer
 typing_text: Red Teamer
@@ -33,8 +33,7 @@ tryhackme_username: b4db0y17
 show_aboutme_card: true
 # about_me_title: The will be displayed as the title in the About Me section
 about_me_title: Whoami
-# about_me_description: This will be displayed under the title.
-about_me_description: I am a dedicated Medical Student with a concurrent role as a Cyber Security Professional and active participation as a CTF Player in Red_Rebels. I stand on the shoulders of giants and I always remain humble. I extend my expertise through mentoring engagements within diverse IT organizations, further enriching the collaborative landscape of the field.
+about_me_description: "An MBBS Doctor with a concurrent role as a Cyber Security Professional and active participation as an active CTF Player for Team Red_Rebels and former Faculty at National Cyber Security Training Institute Bangladesh (NCTIBD), I bridge the gap between medicine and cybersecurity. I stand on the shoulders of giants and remain humble — mentoring IT professionals, organizing national CTF competitions, and continuously pushing the boundaries of offensive security."
 
 # SKILLS SECTION
 # show_skills_card:
@@ -53,7 +52,7 @@ show_timeline_card: true
 timeline_title: Education & Experience
 # cv_download_link: The link where you host your cv.
 # > e.g. you share your cv on your dropbox, then add the dropbox link here
-cv_download_link: https://example.com/
+cv_download_link: https://drive.google.com/drive/folders/1mQaVm4lA6BeLjyIkSz4ReiPHmK_oSmB0?usp=sharing
 
 # PROJECTS SECTION
 # show_projects_card:
@@ -78,14 +77,30 @@ os_projects_title: Open Source Projects
 # > setting this to true, will display the Contact section
 # > setting this to false, will omit the Contact section
 show_contact_card: true
+
+# CERTIFICATES SECTION
+# show_certificates_card:
+# > setting this to true, will display the Certificates section
+# > setting this to false, will omit the Certificates section
+show_certificates_card: true
+# certificates_title: The will be displayed as the title in the Certificates section
+certificates_title: Certifications
+
+# SPECIALIZATION SECTION
+# show_specialization_card:
+# > setting this to true, will display the Specialization section
+# > setting this to false, will omit the Specialization section
+show_specialization_card: true
+# specialization_title: The will be displayed as the title in the Specialization section
+specialization_title: Specialization
 # contact_title: The will be displayed as the title in the Contact section
 contact_title: Contact
 # contact_description: This will be displayed under the title.
-contact_description: Feel free to reach out to me for inquiries, collaborations, or any professional discussions. Whether it's related to the intricate world of cyber security, the realm of medicine, the exciting challenges of CTFs, collaborating in bug hunting or engaging in some cool hacking labs I'm here to connect and engage. Let's explore the intersection of these diverse fields and create opportunities for meaningful exchange. Looking forward to connecting with you!
+contact_description: Whether it's about offensive security, red teaming, CTF challenges, or the unique intersection of medicine and cybersecurity — I'm always open to collaboration, mentorship, and meaningful conversations. Let's connect and explore the digital frontier together!
 # GITHUB-METADATA
 # Set this to your forked repository
 # > e.g. <user>/<user>.github.io
-repository: longpdo/neumorphism
+repository: b4dboy17/b4dboy17.github.io
 projects:
   # sortby:
   # > set this to pushed, if you want to sort your github repositories by time.
