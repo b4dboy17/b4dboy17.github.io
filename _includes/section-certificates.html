@@ -1,0 +1,45 @@
+<h1 class="title">{{site.certificates_title}}</h1>
+<div class="timeline-wrapper">
+  <ul class="timeline">
+    {% for cert in site.data.certificates %}
+      {% if cert.timeline-side == 'left' %}
+        <li>
+          <div class="direction-l">
+            <div class="flag-wrapper">
+              <span class="hexagon"></span>
+              <span class="flag neumorphism-button" data-aos="zoom-in-right">
+                {% if cert.url %}
+                  <a href="{{cert.url}}" target="_blank" rel="noreferrer"><span>{{cert.certificate}}</span></a>
+                {% else %}
+                  <span>{{cert.certificate}}</span>
+                {% endif %}
+              </span>
+            </div>
+            <div class="desc neumorphism-card" data-aos="zoom-in-right">
+              {{cert.full_name}}<br><small style="opacity:0.7">{{cert.issuer}}</small>
+            </div>
+          </div>
+        </li>
+      {% endif %}
+      {% if cert.timeline-side == 'right' %}
+        <li>
+          <div class="direction-r">
+            <div class="flag-wrapper">
+              <span class="hexagon"></span>
+              <span class="flag neumorphism-button" data-aos="zoom-in-left">
+                {% if cert.url %}
+                  <a href="{{cert.url}}" target="_blank" rel="noreferrer"><span>{{cert.certificate}}</span></a>
+                {% else %}
+                  <span>{{cert.certificate}}</span>
+                {% endif %}
+              </span>
+            </div>
+            <div class="desc neumorphism-card" data-aos="zoom-in-left">
+              {{cert.full_name}}<br><small style="opacity:0.7">{{cert.issuer}}</small>
+            </div>
+          </div>
+        </li>
+      {% endif %}
+    {% endfor %}
+  </ul>
+</div>
