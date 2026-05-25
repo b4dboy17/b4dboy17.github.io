@@ -1,4 +1,9 @@
 <h1 class="title">{{site.skills_title}}</h1>
+<style>
+  #skills div { font-size: 0.75rem; padding: 4px 10px; }
+  .filter-button { font-size: 0.7rem; padding: 3px 12px; }
+</style>
+
 
 <div id="skills">
   <input type="radio" id="all" name="filter" checked />
@@ -8,7 +13,7 @@
   <input type="radio" id="tool" name="filter" />
   <label class="filter-button neumorphism-button" for="tool">Tools</label>
   <input type="radio" id="Other Tools" name="filter" />
-  <label class="filter-button neumorphism-button" for="Other Tools">Other Tools</label>
+  <label class="filter-button neumorphism-button" for="Other Tools">Frameworks</label>
 
 
   {% for language in site.data.skills-languages %}
@@ -17,7 +22,7 @@
     </div>
   {% endfor %}
   {% for framework in site.data.skills-frameworks %}
-    <div skill-type="Other Tools" skill-weight="{{Other Tools.weight}}" data-aos="zoom-in">
+    <div skill-type="Other Tools" skill-weight="{{framework.weight}}" data-aos="zoom-in">
       {{framework.name}}
     </div>
   {% endfor %}
