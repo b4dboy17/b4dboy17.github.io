@@ -1,18 +1,50 @@
-# > name: Name of your framework
-# > weight: Describes how good you know the framework - values from 1 up to 5
-#
-# Example of a framework
-# - name: Framework
-#   weight: 5
+# > name: Name of your framework or platform
+# > weight: Describes how good you know it - values from 1 up to 5
 
-- name: SPSS
-  weight: 5
-
-- name: Mendeley
-  weight: 3
-
-- name: Stata
+- name: Red Team in Cloud
   weight: 4
 
-- name: EndNote
-  weight: 1
+- name: MITRE Cloud ATT&CK
+  weight: 4
+
+- name: Enterprise Cloud Tech
+  weight: 3
+
+- name: AWS Security
+  weight: 4
+
+- name: Azure Security
+  weight: 4
+
+- name: GCP Security
+  weight: 3
+
+- name: Cloud Adversary Simulation
+  weight: 4
+
+- name: IAM & RBAC
+  weight: 4
+
+- name: Storage & Compute Security
+  weight: 3
+
+- name: Active Directory
+  weight: 5
+
+- name: DevSecOps
+  weight: 3
+
+- name: SIEM (Splunk/Wazuh)
+  weight: 3
+
+- name: Memory Forensics
+  weight: 4
+
+- name: Network Analysis
+  weight: 4
+
+- name: OpenAI / Claude / Hermes AI
+  weight: 4
+
+- name: MCP Server Architecture
+  weight: 3
