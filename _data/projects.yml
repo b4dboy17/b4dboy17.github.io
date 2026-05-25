@@ -1,48 +1,101 @@
+- name: Competitor, World Skills Goyang Korea 2022
+  descr: "Selected as National Champion (NSDA 2021) and represented Bangladesh in the Cyber Security category at the World Skills International Competition in Goyang, Korea (2022 SE)"
+  tags:
+    - tag: WorldSkills
+    - tag: International
+    - tag: Korea
+    - tag: NSDA
+
 # > name: Name of your project
 # > descr: Description of your project
 # > demo: Link to your project
 # > tags: List of technologies you used in your projects
-#
-# Example of a project
-# - name: project X
-#   descr: "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam"
-#   demo: https://example.com/
-#   tags:
-#     - tag: MongoDB
-#     - tag: Express
-#     - tag: AngularJS
-#     - tag: Node
 
-- name: Chmapion, NSDA-2021
-  descr: "Bangabandhu National Skills Competition 2021, organized by National Skills Development Authority, Bangladesh"
-  demo: https://www.facebook.com/NSDABD/posts/pfbid0eFbTpkQJ8muiTtnV8oKY4DSZqxnt6ABTnMNuR5M7DE3xvJM6xCYL33YTCN8EjdfFl/
+- name: 1st Runner Up, BTRC National CTF 2025
+  descr: "Secured 1st Runner Up position in a national-level Capture The Flag (CTF) cybersecurity competition organized by BTRC, Bangladesh"
   tags:
-    - tag: Chmapion
-    - tag: Cyber Security
     - tag: CTF
-    - tag: Duo
+    - tag: National
+    - tag: BTRC
 
-- name: Chmapion, LeetCon-2023
-  descr: "MIST LeetCon:HackMeIfYouCan, CTF competition"
+- name: 1st Runner Up, IUTCTF 2024
+  descr: "Competed in offensive and defensive security challenges alongside university teams at IUT, Gazipur"
+  tags:
+    - tag: CTF
+    - tag: University
+    - tag: IUT
+
+- name: Champion, LeetCon 2023
+  descr: "MIST LeetCon: HackMeIfYouCan CTF competition — 1st International Cyber Security Conference in Bangladesh with Team Red_Rebels"
   demo: https://www.facebook.com/leetconf/posts/pfbid0XqqsKdeN85KTRRefKXqFEv59NVfBBrd4nnLhsN5rANTfJ9HBdx2GWjmCQS92bcNJl/
   tags:
     - tag: Red_Rebels
     - tag: CTF
+    - tag: Champion
 
-- name: Champion, IEEE CTF Bootcamp-2021
+- name: Worldwide 93rd, HackTheBox 2023
+  descr: "Secured 93rd position worldwide among approximately 6,900+ participants on HackTheBox (Season III)"
+  tags:
+    - tag: HackTheBox
+    - tag: CTF
+    - tag: Global
+
+- name: 4th Runner Up, SUST SWE Technovent CTF 2023
+  descr: "Secured 4th Runner Up position in a national-level Capture The Flag competition at SUST, Sylhet"
   tags:
     - tag: CTF
-    - tag: Solo
+    - tag: SUST
+    - tag: National
 
-- name: Best Project, Digital Forensic
-  descr: "IEEE CTF Bootcamp-2021"
+- name: Best CTF Player Award 2022
+  descr: "Awarded for securing 3 consecutive prizes including national-level and other competitive achievements by Cyber Bangla Ltd"
+  tags:
+    - tag: CTF
+    - tag: Award
+    - tag: Cyber Bangla
+
+- name: 4th Runner Up, Flag Hunt 2022
+  descr: "Achieved 4th Runner Up position in a national-level Capture The Flag competition organized by CTFBD, Bangladesh"
+  tags:
+    - tag: CTF
+    - tag: Flag Hunt
+    - tag: CTFBD
+
+- name: Champion, NSDA 2021
+  descr: "Bangabandhu National Skills Competition 2021 — Selected Champion in Cyber Security to represent Bangladesh at World Skill Competition, Korea"
+  demo: https://www.facebook.com/NSDABD/posts/pfbid0eFbTpkQJ8muiTtnV8oKY4DSZqxnt6ABTnMNuR5M7DE3xvJM6xCYL33YTCN8EjdfFl/
+  tags:
+    - tag: Champion
+    - tag: NSDA
+    - tag: National
+    - tag: WorldSkills
+
+- name: Champion (Solo), IEEE CTF Bootcamp 2021
+  descr: "Secured 1st place in an individual Capture The Flag cybersecurity competition — IEEE CTF Bootcamp, Islamic University, Kushtia"
+  tags:
+    - tag: CTF
+    - tag: Champion
+    - tag: IEEE
+
+- name: Best Project, Digital Forensics 2021
+  descr: "Awarded for excellence in documentation, analysis, and presentation of a digital forensic project at IEEE CTF Bootcamp 2021"
   demo: https://www.linkedin.com/posts/sifat-muttakim_ieee-champion-cybersecurity-activity-6941753254116503552-piJG
   tags:
     - tag: Forensic
+    - tag: IEEE
+    - tag: Research
 
-- name: HacktheBox ProLab Dante
-  descr: "Dive into Hack The Box ProLab - Dante for an immersive cybersecurity experience. Uncover vulnerabilities, enhance skills, and gain confidence in tackling real-world threats"
-  demo: https://media.licdn.com/dms/image/C5622AQGjMUAJyW_CvQ/feedshare-shrink_2048_1536/0/1673529985780?e=1694649600&v=beta&t=bnN6wg8h1Wz-v18xjRU0DDTdFbLMso5Laa6vfkLvhCw/
+- name: HackTheBox ProLab Dante
+  descr: "Completed Hack The Box ProLab — Dante for immersive cybersecurity experience. Uncovered vulnerabilities and gained confidence tackling real-world threats"
+  demo: https://www.linkedin.com/posts/sifat-muttakim_hackthebox-cybersecurity-infosec-activity-7022286482074791937-RYog/
   tags:
-    - tag: hackthebox
-    - tag: pentesting
+    - tag: HackTheBox
+    - tag: Pentesting
+    - tag: ProLab
+
+- name: Gold Medalist, Taekwondo 2015
+  descr: "Secured Champion representing my college in the Korea Ambassador Cup Taekwondo Championship — Banani Indoor Stadium, Dhaka"
+  tags:
+    - tag: Sports
+    - tag: Taekwondo
+    - tag: Gold Medal
