@@ -5,60 +5,110 @@
 # > tags: List of tags you want to associate with the entry
 # > timeline-side: The side on which you want to display the entry: left or right
 
-# Example of a timeline entry
-# - title: airbnb
-#   title-url: https://example.com/
-#   date: Sep 2019 - Present
-#   subtitle: Fullstack Developer
-#   tags:
-#     - tag: React
-#     - tag: Javascript
-#     - tag: Ruby
-#     - tag: Rails
-#   timeline-side: right
+- title: National Cyber Security Training Institute BD (NCTIBD)
+  title-url: https://nctibd.com/
+  date: Dec 2025 - May 2026
+  subtitle: Faculty — Ethical Hacking, Web Security & Network Fundamentals
+  tags:
+    - tag: Faculty
+    - tag: Ethical Hacking
+    - tag: Web Security
+  timeline-side: right
+
+- title: Poly Hospital Ltd
+  title-url: https://polyhospitalbd.com/
+  date: Jun 2025 - Jan 2026
+  subtitle: Duty Medical Officer — OPD, Emergency & Patient Management
+  tags:
+    - tag: Medical
+    - tag: Emergency
+    - tag: Clinical
+  timeline-side: left
+
+- title: Chittagong Medical College
+  title-url: https://cmc.gov.bd/
+  date: Dec 2024 - Nov 2025
+  subtitle: Internship — Medicine, Surgery, Gynae & Emergency
+  tags:
+    - tag: Medical
+    - tag: Intern
+    - tag: Clinical
+  timeline-side: right
+
+- title: DREAM USMLE
+  title-url: https://dreamusmle.com/
+  date: Nov 2024 - Nov 2025
+  subtitle: Graphics Designer — Social Media Promotions & Branding
+  tags:
+    - tag: Graphic Design
+    - tag: Social Media
+  timeline-side: left
+
+- title: NRB Bank
+  title-url: https://nrbbankbd.com/
+  date: Dec 2023 - Dec 2024
+  subtitle: Instructor & CTF Trainer — Intensive CTF/Hacking Training for Bank IT Professionals
+  tags:
+    - tag: Instructor
+    - tag: CTF
+    - tag: Cyber Security
+  timeline-side: right
 
 - title: Red_Rebels
   title-url: https://red-rebels.com/
   date: Sep 2022 - Present
-  subtitle: CTF Player
+  subtitle: Team Leader & CTF Player — Global Rank 343 on CTFtime
   tags:
     - tag: CTF
+    - tag: Team Leader
     - tag: Forensics
-    - tag: Network
     - tag: Cyber Security
   timeline-side: left
 
 - title: AdwareIT
   title-url: https://adwareit.com/
-  date: Sep 2022 - Present
-  subtitle: Instructor & Cyber Secuirty Specialist
+  date: Feb 2023
+  subtitle: Instructor — Practical Cyber Attack & Defense, Threat Analysis, CTF
   tags:
     - tag: Mentor
     - tag: Ethical Hacking
     - tag: Cyber Security
-  timeline-side: right
+  timeline-side: left
 
-- title: Cyber Bangla
+- title: Cyber Bangla Ltd
   title-url: https://cyberbangla.org/
-  date: Mar 2020 - Sep 2022
-  subtitle: Instructor & Cyber Secuirty Specialist
+  date: Jan 2021 - Dec 2022
+  subtitle: Instructor & CTF Organizer — Server/Network Hacking, OSINT, Web Hacking, Digital Forensics
   tags:
     - tag: Mentor
     - tag: Ethical Hacking
+    - tag: CTF
     - tag: Cyber Security
   timeline-side: right
 
 - title: Chattogram Medical College
   title-url: https://cmc.gov.bd/
-  subtitle: Bachelor of Medicine, Bachelor of Surgery (MBBS)
+  date: 2018 - 2024
+  subtitle: MBBS (Bachelor of Medicine, Bachelor of Surgery)
+  tags:
+    - tag: Medicine
+    - tag: MBBS
   timeline-side: left
 
 - title: Dhaka Residential Model College
   title-url: http://www.drmc.edu.bd/
-  subtitle: Higher Secondary School Certificate
+  date: 2014 - 2016
+  subtitle: Higher Secondary School Certificate — GPA 5.00 (Golden)
+  tags:
+    - tag: Science
+    - tag: HSC
   timeline-side: right
 
 - title: Ispahani Public School & College
   title-url: https://www.ipsc.edu.bd/
-  subtitle: Secondary School Certificate
+  date: 2012 - 2014
+  subtitle: Secondary School Certificate — GPA 5.00 (Golden)
+  tags:
+    - tag: Science
+    - tag: SSC
   timeline-side: left
