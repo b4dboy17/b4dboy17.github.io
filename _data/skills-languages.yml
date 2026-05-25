@@ -1,12 +1,17 @@
 # > name: Name of your programming language
 # > weight: Describes how good you know the language - values from 1 up to 5
-#
-# Example of a Language
-# - name: Language
-#   weight: 5
 
 - name: Python
   weight: 5
 
+- name: PowerShell
+  weight: 4
+
 - name: Bash
+  weight: 4
+
+- name: SQL
   weight: 3
+
+- name: R
+  weight: 2
